@@ -1,1 +1,1 @@
-# menu_planner
+# meal_planner
