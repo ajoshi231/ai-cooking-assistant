@@ -1,4 +1,4 @@
-Cooking Assistant
+## AI Cooking Assistant
 
 A personalized meal recommendation app built during a **MLH Global Hack Week** workshop using **Python**, **Google Colab**, **Gradio**, **Pandas**, and the **Google Gemini API**.
 
