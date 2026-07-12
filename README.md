@@ -10,11 +10,9 @@ A personalized meal recommendation app built during a **MLH Global Hack Week** w
 
 ## Tech Stack
 - Python
-- Google Colab
-- Gradio
 - Pandas
 - Google Gemini API
+- Gradio
 
 ---
-
 Built during **MLH Global Hack Week - 2027 Season Kickoff**.
