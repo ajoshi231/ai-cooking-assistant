@@ -17,4 +17,4 @@ A personalized meal recommendation app built during a **MLH Global Hack Week** w
 
 ---
 
-Built during **MLH Global Hack Week - Season Kickoff**.
+Built during **MLH Global Hack Week - 2027 Season Kickoff**.
